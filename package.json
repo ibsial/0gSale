@@ -1,0 +1,14 @@
+{
+    "scripts": {
+        "start": "npx ts-node ./snipe.ts"
+    },
+    "dependencies": {
+        "@typechain/ethers-v6": "^0.5.1",
+        "@types/node": "^20.11.16",
+        "chalk": "^4.1.2",
+        "ethers": "^6.9.2",
+        "ts-node": "^10.9.2",
+        "typechain": "^8.3.2",
+        "typescript": "^5.3.3"
+    }
+}
